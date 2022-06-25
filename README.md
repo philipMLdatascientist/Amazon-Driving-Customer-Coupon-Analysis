@@ -60,39 +60,51 @@ The overall proportion of bar coupons that drivers chose to accept is 41.2%. Thi
 Comparison of Feature Affect On Acceptance Rates between Restaurant <$20 and Restaurant $20-$50 coupons
 
 Destination | No Urgernt Place & Home: The Restaurant(< 20) coupon accepetance count is nearly 4 times that of the no acceptance count in the "No Urgent Place" category. However, the Restaurant $20-50 coupon acceptance and no acceptance counts are nearly equivalent for the same category. Furthermore, the highest acceptance count for the Restaurant 20-50 coupon is in the "Home" category but the value is surpassed by the no acceptance count. The "Work" category no acceptance count is also markedly higher.
+
 Recommendation: Restaurants < 20 should send their coupons outside of morning and afternoon rush hour. Restaurants 20-50 should send their coupons during afternoon rush hour.
 
 Passenger | Alone & Friend: The Restaurant < 20 coupon acceptace count for 'Alone & Friend' are markedly higher than the no acceptance count. However, the Restaurant 20-50 coupon acceptance count is lower in both aformentioned categories but markedly so in the 'Friend' category. The highest acceptance count for both coupons is in the 'Alone' category.
+
 Recommendation: Coupons for Restaurants < 20 & 20-50 should be sent during lunch breaks when people tend to eat by themselves. It is difficult to predict when a driver would have a friend in the car but perhaps Federal Holidays would also be another reasonable target for Restaraunt < 20 coupons.
 
 Weather | Sunny: Both coupons have the highest acceptance count in the "Sunny" catgory and very low acceptance rates during snowy and rainy weather.
+
 Recommendation: Only send coupons during sunny weather.
 
 Temperature | 80F: Both coupons have their highest acceptance count during 80F, followed by 55F, followed by 30F. However, the effect is most pronounced at 80F.
+
 Recommendation: Both coupons should be sent when temperatures approximate 80F but temperatures of 55F also produce reasonable acceptance counts.
 
 Time | 7AM, 2PM, 6PM: Both coupons have their highest acceptance count at 6PM which reinforces previous findings. The Restaurant <20 coupon has its second highest acceptance count at 2PM and the Restaurant 20-50 coupon has its second hightest count at 7AM, which is still lower than the Restaurant less than 20 coupon at the same time.
+
 Recommendation: Send the Restaurant <20 coupon at 7AM, 2PM, & 6PM. Send the Restaurant 20-50 coupon at 7AM and 6PM.
 
 Expiration | 1d & 2h: Both coupons have higher acceptance counts with expirations lasting 1 day. However, the Restaurant <20 coupon also has a high acceptance count with an expiration of 2 hours.
+
 Recommendation: Both expirations work well for the Restaurant <20 coupon. The Restaurant 20-50 coupon should have an expiration of 1 day.
 
 Gender: Males and females demonstrate equivalent acceptance counts for either coupon. However, in this data set there are much higher acceptance counts for the Restaurant <20 coupon.
+
 Recommendation: None.
 
 Age | 21, 26, 31: Both coupons have the highest acceptance counts in the 21, 26, and 31 age categories. However, the Restaurant <20 has a higher acceptance vs no acceptance count across all age categories. The alternative coupon only had a higher acceptance rate in the 26 and 46 age categories.
+
 Recommendation: The Restaurant <20 is effective for all age categories. The Restaurant <20-50 coupon does well for the 26 and 46 age categories and less so for the 21 and 31 age categories but can still generate significant reasonable counts.
 
 Marital Status | Single, Married partner, Unmarried partner: Both coupons have the highest acceptance counts in the Single, Married, and Unmarried partner categories. However, the Restaurant less than $20 has a higher acceptance vs no acceptance count across all maritalStatus groups whereas these same findings are reversed for the Restaurant $20-50 coupon but still generates significiant acceptance counts.
+
 Recommendation: The Restaurant <20 is effective for all marital status categories. The Restaurant 20-50 coupon does well for the single and married partner categories and less so for the unmarried partner category but can still generate significant acceptance counts.
 
 Has_Children: Having children or not demonstrates similar acceptance rates for either coupon. However, in this data set there are much higher acceptance counts for the Restaurant <20 coupon.
+
 Recommendation: Both coupons can drive acceptance counts by focusing on drivers who don't have children. The effect is more pronounced for the Restaurant <20 coupon.
 
 Education | Bachelors & Some College - no degree: Both coupons had their highest acceptance counts for the bachelors and some college categories. However, the acceptance vs no acceptance rate for the Restaurant<20 is higher throughout all education categories. The acceptance rate for the Restaurant20-50 is only higher in the high school graduate and some high school categories.
+
 Recommendation:Both coupons should be sent to drivers with a bachelor degree or some college education.
 
 Income: The Restaurant < 20 coupon has a higher acceptance vs no acceptance rate accross all income categories. The Restaurant 20-50 coupon only has a higher acceptance vs no acceptance rate in the 25000-37499 and the 100000 or more categories. Interestingly, both coupons had their highest and second highest acceptance counts in the 25000-37499 and the more than 100000 category, respectively.
+
 Recommendation: The Restaurant <20 coupon performs well across all income categories. The Restaurant 20-50 coupon has the highest acceptance rate among drivers who are in the 25000-37499 and the more than 100000 categories and still produces adequate acceptance counts in the 50000-62499 and 37500-49999 income categories.
 
 Occupation | Student, Unemployed, Computer & Mathematical, Sales & Related: Interestingly, the four occupation categories that had the highest counts in both coupons are the same - Student, Unemployed, Computer & Mathematical, Sales & Related. The acceptance vs no acceptance rate for the Restaurant <20 coupon is greater across all occupations with the exception of "building & grounds cleaning & maintenance category".

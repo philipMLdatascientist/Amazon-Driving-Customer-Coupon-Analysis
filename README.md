@@ -107,11 +107,11 @@ Income: The Restaurant < 20 coupon has a higher acceptance vs no acceptance rate
 
 Recommendation: The Restaurant <20 coupon performs well across all income categories. The Restaurant 20-50 coupon has the highest acceptance rate among drivers who are in the 25000-37499 and the more than 100000 categories and still produces adequate acceptance counts in the 50000-62499 and 37500-49999 income categories.
 
-Restaurant<20 | 1-3, 4-8: Both coupons have their highest acceptance counts within the 1-3 and 4-8 categories. However, the acceptance rate is significanty higher for the Restaurant<20 coupon in the 1-3 and 4-8 categories. This also supports my initial hypothesis that past behavior is strongly predictive of future behavior.
+Restaurant<20 | 1-3, 4-8: Both coupons have their highest acceptance counts within the 1-3 and 4-8 categories. However, the acceptance rate is significanty higher for the Restaurant<20 coupon in the 1-3 and 4-8 categories. This also supports my initial hypothesis that past behavior is strongly predictive of future coupon acceptance rate.
 
 Recommendation: Send both coupons to drivers who frequent Restaurants<20 1-8 times a month.
 
-Restaurant20-50 | less1, 1-3: Both coupons have their highest acceptance counts within the less1 and 1-3 categories. However, the acceptance rate is significanty higher for the Restaurant<20-50 coupon in the 1-3, 4-8, and gt8 categories. This also supports my initial hypothesis that past behavior is strongly predictive of future behavior.
+Restaurant20-50 | less1, 1-3: Both coupons have their highest acceptance counts within the less1 and 1-3 categories. However, the acceptance rate is significanty higher for the Restaurant<20-50 coupon in the 1-3, 4-8, and gt8 categories. This also supports my initial hypothesis that past behavior is strongly predictive of future coupon acceptance rate.
 
 Recommendation: Send both coupons to drivers who frequent Restaurants20-50 less1 and up to 3 times a month. Send Restaurant20-50 coupons to drivers who frequent Restaurant20-50 more than three times a month.
 

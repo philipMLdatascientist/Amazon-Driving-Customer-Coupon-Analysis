@@ -115,7 +115,7 @@ Restaurant20-50 | less1, 1-3: Both coupons have their highest acceptance counts 
 
 Recommendation: Send both coupons to drivers who frequent Restaurants20-50 less1 and up to 3 times a month. Send Restaurant20-50 coupons to drivers who frequent Restaurant20-50 more than three times a month.
 
-Occupation | Student, Unemployed, Computer & Mathematical, Sales & Related: Interestingly, the four occupation categories that had the highest counts in both coupons are the same - Student, Unemployed, Computer & Mathematical, Sales & Related. The acceptance vs no acceptance rate for the Restaurant <20 coupon is greater across all occupations with the exception of "building & grounds cleaning & maintenance category".
+Occupation | Student, Unemployed, Computer & Mathematical, Sales & Related: Interestingly, the four occupation categories that had the highest counts in both coupons are the same - Student, Unemployed, Computer & Mathematical, Sales & Related. The acceptance vs no acceptance rate for the Restaurant <20 coupon is greater across all occupations with the exception of "building & grounds cleaning & maintenance" category.
 
 In regards to the Restaurant 20-50 coupon, this is the first time the data set has shown me numerous categories that have acceptance rates higher than or equivalent to the no acceptance rates. These categories are specifically:
 

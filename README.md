@@ -2,6 +2,10 @@
 
 Driving Customer Coupon Analysis
 
+Link to Jupyter notebook below:
+
+https://github.com/philipMLdatascientist/Amazon-Driving-Customer-Coupon-Analysis/blob/main/Customer%20Coupon%20Analysis.ipynb
+
 **Project Description.**
 
 Will a Customer Accept the Coupon?
